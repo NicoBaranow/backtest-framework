@@ -1,0 +1,16 @@
+# IDE
+.vscode/
+
+
+# Data
+data/cold_storage/
+
+# Results & Logs
+results/
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
